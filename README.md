@@ -6,5 +6,5 @@ This command will publish the content package to the Github repo.
 > Run this command from the root of the project.
 
 ```bash
-pnpm publish-content template-content
+pnpm publish-content content-init
 ```
